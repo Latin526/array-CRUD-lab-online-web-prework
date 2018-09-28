@@ -3,7 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
+<<<<<<< HEAD
  baking ["cookies", "cakes", "pies", "brownies"]
+=======
+  baking ["cookies", "cakes", "pies", "brownies"]
+>>>>>>> 3c1d47a637ae95d04402c11b90919905fa9af49c
 end
 
 def add_element_to_end_of_array(array, element)
